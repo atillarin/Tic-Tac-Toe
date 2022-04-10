@@ -1,0 +1,36 @@
+#info {
+    font-family: Verdana,Geneva, Tahoma, sans-serif;
+    color: rgb(255, 189, 6);
+    font-size: 20px;
+}
+
+#main {
+    text-align: center;
+}
+
+#b1, #b2, #b3, #b4, #b5,
+#b6, #b7, #b8, #b9 {
+    width: 80px;
+    height: 52px;
+    border: 1px solid gray;
+    font-size: 30px;
+    text-align: center;
+    cursor: default;
+}
+
+button {
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    font-family: Verdana,Geneva, Tahoma, sans-serif;
+    background-color: #ffe138;
+    color: white;
+    font-size: 20px;
+    border-radius: 6px;
+}
+
+
+
+
+
+
